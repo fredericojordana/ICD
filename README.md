@@ -1,2 +1,2 @@
 # ICD
-TESTE = Hello, word
+TESTE = Hello, world
